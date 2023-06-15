@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-15T18:42:19.824104900Z</date>
+  <millis>1686854539824</millis>
+  <nanos>104900</nanos>
+  <sequence>36</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:42:19.826101800Z</date>
+  <millis>1686854539826</millis>
+  <nanos>101800</nanos>
+  <sequence>37</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:42:19.828109900Z</date>
+  <millis>1686854539828</millis>
+  <nanos>109900</nanos>
+  <sequence>38</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:42:19.829100300Z</date>
+  <millis>1686854539829</millis>
+  <nanos>100300</nanos>
+  <sequence>39</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:42:19.831100300Z</date>
+  <millis>1686854539831</millis>
+  <nanos>100300</nanos>
+  <sequence>40</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:42:19.832100400Z</date>
+  <millis>1686854539832</millis>
+  <nanos>100400</nanos>
+  <sequence>41</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+</log>

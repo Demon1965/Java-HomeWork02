@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-15T18:40:43.249670Z</date>
+  <millis>1686854443249</millis>
+  <nanos>670000</nanos>
+  <sequence>120</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.251668300Z</date>
+  <millis>1686854443251</millis>
+  <nanos>668300</nanos>
+  <sequence>121</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.255667700Z</date>
+  <millis>1686854443255</millis>
+  <nanos>667700</nanos>
+  <sequence>122</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.258665800Z</date>
+  <millis>1686854443258</millis>
+  <nanos>665800</nanos>
+  <sequence>123</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.263663900Z</date>
+  <millis>1686854443263</millis>
+  <nanos>663900</nanos>
+  <sequence>124</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.267665400Z</date>
+  <millis>1686854443267</millis>
+  <nanos>665400</nanos>
+  <sequence>125</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.273660500Z</date>
+  <millis>1686854443273</millis>
+  <nanos>660500</nanos>
+  <sequence>126</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.275660Z</date>
+  <millis>1686854443275</millis>
+  <nanos>660000</nanos>
+  <sequence>127</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.280661400Z</date>
+  <millis>1686854443280</millis>
+  <nanos>661400</nanos>
+  <sequence>128</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.282657600Z</date>
+  <millis>1686854443282</millis>
+  <nanos>657600</nanos>
+  <sequence>129</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.286656400Z</date>
+  <millis>1686854443286</millis>
+  <nanos>656400</nanos>
+  <sequence>130</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.288655900Z</date>
+  <millis>1686854443288</millis>
+  <nanos>655900</nanos>
+  <sequence>131</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.292654400Z</date>
+  <millis>1686854443292</millis>
+  <nanos>654400</nanos>
+  <sequence>132</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.297654300Z</date>
+  <millis>1686854443297</millis>
+  <nanos>654300</nanos>
+  <sequence>133</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.301654100Z</date>
+  <millis>1686854443301</millis>
+  <nanos>654100</nanos>
+  <sequence>134</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.304651Z</date>
+  <millis>1686854443304</millis>
+  <nanos>651000</nanos>
+  <sequence>135</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.307650300Z</date>
+  <millis>1686854443307</millis>
+  <nanos>650300</nanos>
+  <sequence>136</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.310649300Z</date>
+  <millis>1686854443310</millis>
+  <nanos>649300</nanos>
+  <sequence>137</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.316647100Z</date>
+  <millis>1686854443316</millis>
+  <nanos>647100</nanos>
+  <sequence>138</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.318646Z</date>
+  <millis>1686854443318</millis>
+  <nanos>646000</nanos>
+  <sequence>139</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.322645700Z</date>
+  <millis>1686854443322</millis>
+  <nanos>645700</nanos>
+  <sequence>140</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.325643400Z</date>
+  <millis>1686854443325</millis>
+  <nanos>643400</nanos>
+  <sequence>141</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.330642600Z</date>
+  <millis>1686854443330</millis>
+  <nanos>642600</nanos>
+  <sequence>142</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.332642100Z</date>
+  <millis>1686854443332</millis>
+  <nanos>642100</nanos>
+  <sequence>143</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.336640400Z</date>
+  <millis>1686854443336</millis>
+  <nanos>640400</nanos>
+  <sequence>144</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.338640100Z</date>
+  <millis>1686854443338</millis>
+  <nanos>640100</nanos>
+  <sequence>145</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.342639600Z</date>
+  <millis>1686854443342</millis>
+  <nanos>639600</nanos>
+  <sequence>146</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.347639100Z</date>
+  <millis>1686854443347</millis>
+  <nanos>639100</nanos>
+  <sequence>147</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.363632800Z</date>
+  <millis>1686854443363</millis>
+  <nanos>632800</nanos>
+  <sequence>148</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.368633200Z</date>
+  <millis>1686854443368</millis>
+  <nanos>633200</nanos>
+  <sequence>149</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.377628800Z</date>
+  <millis>1686854443377</millis>
+  <nanos>628800</nanos>
+  <sequence>150</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.381626700Z</date>
+  <millis>1686854443381</millis>
+  <nanos>626700</nanos>
+  <sequence>151</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.386624300Z</date>
+  <millis>1686854443386</millis>
+  <nanos>624300</nanos>
+  <sequence>152</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.389624100Z</date>
+  <millis>1686854443389</millis>
+  <nanos>624100</nanos>
+  <sequence>153</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.395621200Z</date>
+  <millis>1686854443395</millis>
+  <nanos>621200</nanos>
+  <sequence>154</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.399624500Z</date>
+  <millis>1686854443399</millis>
+  <nanos>624500</nanos>
+  <sequence>155</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.406618600Z</date>
+  <millis>1686854443406</millis>
+  <nanos>618600</nanos>
+  <sequence>156</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.409618Z</date>
+  <millis>1686854443409</millis>
+  <nanos>618000</nanos>
+  <sequence>157</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.415615800Z</date>
+  <millis>1686854443415</millis>
+  <nanos>615800</nanos>
+  <sequence>158</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.418613900Z</date>
+  <millis>1686854443418</millis>
+  <nanos>613900</nanos>
+  <sequence>159</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.435609200Z</date>
+  <millis>1686854443435</millis>
+  <nanos>609200</nanos>
+  <sequence>160</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.439608400Z</date>
+  <millis>1686854443439</millis>
+  <nanos>608400</nanos>
+  <sequence>161</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.458601800Z</date>
+  <millis>1686854443458</millis>
+  <nanos>601800</nanos>
+  <sequence>162</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.460600300Z</date>
+  <millis>1686854443460</millis>
+  <nanos>600300</nanos>
+  <sequence>163</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.467600600Z</date>
+  <millis>1686854443467</millis>
+  <nanos>600600</nanos>
+  <sequence>164</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.470598500Z</date>
+  <millis>1686854443470</millis>
+  <nanos>598500</nanos>
+  <sequence>165</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.474597Z</date>
+  <millis>1686854443474</millis>
+  <nanos>597000</nanos>
+  <sequence>166</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.476596300Z</date>
+  <millis>1686854443476</millis>
+  <nanos>596300</nanos>
+  <sequence>167</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.479596200Z</date>
+  <millis>1686854443479</millis>
+  <nanos>596200</nanos>
+  <sequence>168</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.481595200Z</date>
+  <millis>1686854443481</millis>
+  <nanos>595200</nanos>
+  <sequence>169</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.485593700Z</date>
+  <millis>1686854443485</millis>
+  <nanos>593700</nanos>
+  <sequence>170</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.487593200Z</date>
+  <millis>1686854443487</millis>
+  <nanos>593200</nanos>
+  <sequence>171</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.507586600Z</date>
+  <millis>1686854443507</millis>
+  <nanos>586600</nanos>
+  <sequence>172</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.510584500Z</date>
+  <millis>1686854443510</millis>
+  <nanos>584500</nanos>
+  <sequence>173</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.517582800Z</date>
+  <millis>1686854443517</millis>
+  <nanos>582800</nanos>
+  <sequence>174</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.520582900Z</date>
+  <millis>1686854443520</millis>
+  <nanos>582900</nanos>
+  <sequence>175</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.583561600Z</date>
+  <millis>1686854443583</millis>
+  <nanos>561600</nanos>
+  <sequence>176</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.587560Z</date>
+  <millis>1686854443587</millis>
+  <nanos>560000</nanos>
+  <sequence>177</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.595559600Z</date>
+  <millis>1686854443595</millis>
+  <nanos>559600</nanos>
+  <sequence>178</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.599557100Z</date>
+  <millis>1686854443599</millis>
+  <nanos>557100</nanos>
+  <sequence>179</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.605555400Z</date>
+  <millis>1686854443605</millis>
+  <nanos>555400</nanos>
+  <sequence>180</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log</message>
+</record>
+<record>
+  <date>2023-06-15T18:40:43.608554800Z</date>
+  <millis>1686854443608</millis>
+  <nanos>554800</nanos>
+  <sequence>181</sequence>
+  <logger>HomeWorkTwo.Main02</logger>
+  <level>INFO</level>
+  <class>HomeWorkTwo.Main02</class>
+  <method>Logger</method>
+  <thread>1</thread>
+  <message>Test log2</message>
+</record>
+</log>
